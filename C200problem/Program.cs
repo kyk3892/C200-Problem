@@ -7,6 +7,7 @@ namespace C200problem
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("잘되는지 확인");
         }
     }
 }
